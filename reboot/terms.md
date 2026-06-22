@@ -1,17 +1,19 @@
-# Reboot Terms of Use
+# Rewire Terms of Use
 
-Last updated: June 22, 2026
+Last updated: June 23, 2026
 
-These Terms of Use ("Terms") govern your use of the Reboot app ("Reboot", "we", "our", or "the app"). By downloading or using Reboot, you agree to these Terms.
+These Terms of Use ("Terms") govern your use of the Rewire app ("Rewire", "we", "our", or "the app"). By downloading or using Rewire, you agree to these Terms.
 
 ## 1. The Service
-Reboot is an educational self-help app designed to help you reduce or quit pornography use and rebuild healthier habits, through guided exercises, breathing tools, a daily card course, urge-management tools, and streak tracking. Reboot is provided for **educational and self-improvement purposes only**. It is not medical, psychological, clinical, or professional advice, diagnosis, or treatment, and should not be relied upon as such. If you have health concerns, please consult a qualified professional.
+Rewire is an educational self-help app designed to help you reduce or quit pornography use and rebuild healthier habits, through guided exercises, breathing tools, a daily card course, urge-management tools, and streak tracking. Rewire is provided for **educational and self-improvement purposes only**. It is not medical, psychological, clinical, or professional advice, diagnosis, or treatment, and should not be relied upon as such. If you have health concerns, please consult a qualified professional.
+
+You must be at least 17 years old to use Rewire. By using the app, you confirm that you meet this age requirement.
 
 ## 2. No Advertising
-Reboot contains no third-party advertising. Some features require a subscription, as described below.
+Rewire contains no third-party advertising. Some features require a subscription, as described below.
 
 ## 3. Subscriptions and Payment
-- Reboot offers auto-renewable subscriptions (Weekly and Yearly). Exact prices are shown in the app and are charged to your Apple ID account.
+- Rewire offers auto-renewable subscriptions (Weekly and Yearly). Exact prices are shown in the app and are charged to your Apple ID account.
 - The Weekly plan may include a free trial (e.g., 3 days). Any unused portion of a free trial is forfeited when you purchase a subscription.
 - Your subscription automatically renews unless you turn off auto-renew at least 24 hours before the end of the current period. Your account is charged for renewal within 24 hours prior to the end of the current period.
 - You can manage or cancel your subscription in your Apple ID Settings > Subscriptions after purchase.
@@ -36,20 +38,22 @@ See also our [Privacy Policy](privacy).
 
 
 
-# Reboot 使用条款
+# Rewire 使用条款
 
-最后更新：2026 年 6 月 22 日
+最后更新：2026 年 6 月 23 日
 
-本使用条款（"条款"）规范你对 Reboot App（"Reboot"、"我们"或"本 App"）的使用。下载或使用 Reboot 即表示你同意本条款。
+本使用条款（"条款"）规范你对 Rewire App（"Rewire"、"我们"或"本 App"）的使用。下载或使用 Rewire 即表示你同意本条款。
 
 ## 1. 服务说明
-Reboot 是一款教育性自助 App，旨在帮助你减少或戒除色情内容的使用、重建更健康的习惯，提供引导式练习、呼吸工具、每日卡片课程、冲动应对工具与连续天数记录。Reboot **仅供教育与自我提升之用**，并非医疗、心理、临床或专业的建议、诊断或治疗，不应作为此类用途的依据。如有健康方面的疑虑，请咨询合格的专业人士。
+Rewire 是一款教育性自助 App，旨在帮助你减少或戒除色情内容的使用、重建更健康的习惯，提供引导式练习、呼吸工具、每日卡片课程、冲动应对工具与连续天数记录。Rewire **仅供教育与自我提升之用**，并非医疗、心理、临床或专业的建议、诊断或治疗，不应作为此类用途的依据。如有健康方面的疑虑，请咨询合格的专业人士。
+
+你必须年满 17 岁才能使用 Rewire。使用本 App 即表示你确认满足该年龄要求。
 
 ## 2. 无广告
-Reboot 不含任何第三方广告。部分功能需通过订阅使用，详见下文。
+Rewire 不含任何第三方广告。部分功能需通过订阅使用，详见下文。
 
 ## 3. 订阅与付费
-- Reboot 提供自动续期订阅（按周与按年）。具体价格在 App 内显示，并通过你的 Apple ID 账号收取。
+- Rewire 提供自动续期订阅（按周与按年）。具体价格在 App 内显示，并通过你的 Apple ID 账号收取。
 - 按周方案可能包含免费试用（如 3 天）。购买订阅时，未使用的免费试用部分将作废。
 - 除非你在当前周期结束前至少 24 小时关闭自动续期，否则订阅将自动续期。续期费用将在当前周期结束前 24 小时内收取。
 - 购买后，你可在 Apple ID 设置 > 订阅 中管理或取消订阅。
