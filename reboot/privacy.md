@@ -20,7 +20,7 @@ Notifications are optional and off by default. If you enable reminders, they are
 Because your data lives only on your device, you are always in control. Using "Clear local cache" in the app, or deleting the app, permanently removes your data. There is nothing stored on our servers to delete.
 
 ## 6. Children
-Rewire is intended for adults (rated 17+) and is not directed to children. We do not knowingly collect any data from anyone, including children under 13.
+Rewire is intended for users aged 16 and older (rated 16+) and is not directed to young children. We do not knowingly collect any data from anyone, including children under 13.
 
 ## 7. Your Rights (GDPR / CCPA)
 Because your data stays on your device and we never collect it, there is nothing on our side to access, export, correct, or delete. If you are in the EU/UK (GDPR) or California (CCPA/CPRA), you retain full rights over your data: you can view or permanently erase everything directly in the app ("Clear local cache" or by deleting the app). We do not sell or share personal information. For any privacy question, contact us at xiezg8888@outlook.com.
@@ -57,7 +57,7 @@ Rewire 不含任何广告，也不含任何第三方追踪或分析 SDK。我们
 由于你的数据仅存在于你的设备上，主动权始终在你手中。在 App 内使用"清除本地缓存"，或删除本 App，即可永久移除你的数据。我们的服务器上没有任何可删除的内容。
 
 ## 6. 儿童
-Rewire 面向成年人（分级 17+），不面向儿童。我们不会在知情的情况下收集任何人（包括 13 岁以下儿童）的数据。
+Rewire 面向 16 岁及以上用户（分级 16+），不面向儿童。我们不会在知情的情况下收集任何人（包括 13 岁以下儿童）的数据。
 
 ## 7. 你的权利（GDPR / CCPA）
 由于你的数据只存在你的设备上、我们从不收集，因此我们这边没有任何可访问、导出、更正或删除的内容。若你身处欧盟/英国（GDPR）或美国加州（CCPA/CPRA），你对自己的数据拥有全部权利：可直接在 App 内查看或永久删除一切（"清除本地缓存"或删除本 App）。我们不出售、不分享个人信息。任何隐私问题请联系 xiezg8888@outlook.com。

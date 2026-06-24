@@ -7,7 +7,7 @@ These Terms of Use ("Terms") govern your use of the Rewire app ("Rewire", "we", 
 ## 1. The Service
 Rewire is an educational self-help app designed to help you reduce or quit pornography use and rebuild healthier habits, through guided exercises, breathing tools, a daily card course, urge-management tools, and streak tracking. Rewire is provided for **educational and self-improvement purposes only**. It is not medical, psychological, clinical, or professional advice, diagnosis, or treatment, and should not be relied upon as such. If you have health concerns, please consult a qualified professional.
 
-You must be at least 17 years old to use Rewire. By using the app, you confirm that you meet this age requirement.
+You must be at least 16 years old to use Rewire. By using the app, you confirm that you meet this age requirement.
 
 ## 2. No Advertising
 Rewire contains no third-party advertising. Some features require a subscription, as described below.
@@ -47,7 +47,7 @@ See also our [Privacy Policy](privacy).
 ## 1. 服务说明
 Rewire 是一款教育性自助 App，旨在帮助你减少或戒除色情内容的使用、重建更健康的习惯，提供引导式练习、呼吸工具、每日卡片课程、冲动应对工具与连续天数记录。Rewire **仅供教育与自我提升之用**，并非医疗、心理、临床或专业的建议、诊断或治疗，不应作为此类用途的依据。如有健康方面的疑虑，请咨询合格的专业人士。
 
-你必须年满 17 岁才能使用 Rewire。使用本 App 即表示你确认满足该年龄要求。
+你必须年满 16 岁才能使用 Rewire。使用本 App 即表示你确认满足该年龄要求。
 
 ## 2. 无广告
 Rewire 不含任何第三方广告。部分功能需通过订阅使用，详见下文。
